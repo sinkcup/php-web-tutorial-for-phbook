@@ -6,14 +6,14 @@
 右键“查看页面源代码”，看到了一行行的文本。是这样的：
 ![豆瓣首页HTML源代码截图](http://com-163-sinkcup-php-web-tutorial-create-online-reader.qiniudn.com/douban_homepage_sourcecode.png)
 
-把这些代码复制下来，保存成index.html文件，用浏览器打开，看到了访问douban.com一样的内容。如图：
+把这些代码复制下来，保存成index.html文件，用浏览器打开，看到了和访问douban.com一样的内容。如图：
 ![豆瓣首页HTML源代码保存到本地](http://com-163-sinkcup-php-web-tutorial-create-online-reader.qiniudn.com/douban_sourcecode_save_as_localfile.png)
 
 这就是HTML，写的时候是一行行的文本，用浏览器打开，就会渲染成图形化的界面。
 
-下面开始开发一个“在线阅读网站”，可以用来当小说网站、博客。
+下面开始开发一个“在线阅读网站”，可以用来当小说网站、博客、新闻网站等等。
 
-要做哪些功能？
+先来规划一下产品要做哪些功能？
 
 * 首页：显示文章列表，列表里显示每篇文章的标题、摘要。
 
