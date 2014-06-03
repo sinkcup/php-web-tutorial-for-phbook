@@ -1,0 +1,15 @@
+{
+    "name": "php-web-tutorial-create-online-reader",
+    "version": "0.0.1",
+    "description": "PHP 5.5 Web零基础教程：开发一个在线阅读网站",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GitbookIO/progit.git"
+    },
+    "author": "sinkcup <sinkcup@163.com>",
+    "license": "知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议",
+    "dependencies": {},
+    "devDependencies": {
+        "gitbook-plugin-autocover": "0.0.5"
+    }
+}
