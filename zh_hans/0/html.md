@@ -76,7 +76,7 @@
 
 刚才的代码是首页，其他还有详情页、发表页，在这里：
 
-代码下载：[https://github.com/sinkcup/php-ebook-online-reader/tree/0.1](https://github.com/sinkcup/php-ebook-online-reader/tree/0.1)
+代码下载：[https://github.com/sinkcup/php-ebook-online-reader/tree/0.1.0](https://github.com/sinkcup/php-ebook-online-reader/tree/0.1.0)
 
 下载以后，你就可以看到截图里的精彩内容，知道如何“在北京买房”、“9个月挣到70w”、“30岁退休”，当然了，为了吸引青年男女，特意放了几篇XXOO相关的文章，其中有一篇是老罗写的，很精彩又不低俗，人格担保，你懂的。
 
