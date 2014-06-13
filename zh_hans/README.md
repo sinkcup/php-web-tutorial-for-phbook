@@ -6,11 +6,11 @@
 
 本书是开源书籍，采用markdown语法，书放在[github.com](http://github.com)。代码也是开源的，也在github上。图片放在免费的七牛云存储[qiniu.com](https://portal.qiniu.com/signup?code=3lafkpsz7yes1)上。例子中的文章来自简书的[Ryekee](http://jianshu.io/users/30f22635968e/latest_articles)、[游苏赋](http://jianshu.io/users/9fc68a490b8a/latest_articles)，在此先说声“谢谢”:)
 
-可以使用[gitbook](http://gitbook.io)生成电子书，或者直接在简书网站上阅读。
+如果发现错别字或者有意见建议，欢迎反馈，可以在简书里直接评论，或者在github Issues里面提，电子书修改更新还是很方便的。
 
-如果发现错别字，记得告诉我一下，电子书修改更新还是很方便的。
+GitBook在线阅读与下载：[https://www.gitbook.io/book/sinkcup/php-web-tutorial-create-online-reader](https://www.gitbook.io/book/sinkcup/php-web-tutorial-create-online-reader)
 
-简书：[http://jianshu.io/notebooks/104779/latest](http://jianshu.io/notebooks/104779/latest)
+简书在线阅读：[http://jianshu.io/notebooks/104779/latest](http://jianshu.io/notebooks/104779/latest)
 
 书的github：[https://github.com/sinkcup/php-web-tutorial-create-online-reader](https://github.com/sinkcup/php-web-tutorial-create-online-reader)
 
