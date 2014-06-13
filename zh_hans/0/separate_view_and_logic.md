@@ -71,6 +71,8 @@
 
 ![notice ok](http://com-163-sinkcup-php-web-tutorial-create-online-reader.qiniudn.com/notice_ok.png)
 
+代码下载：[https://github.com/sinkcup/php-ebook-online-reader/tree/0.3.0](https://github.com/sinkcup/php-ebook-online-reader/tree/0.3.0)
+
 ##总结一下
 
 ###我的技术水平
@@ -81,7 +83,7 @@
         <th>PHP</th>
         <th>数据存储</th>
         <th>HTTP协议</th>
-        <th>计算机文化导论</th>
+        <th>程序员的自我修养</th>
         <th>装备</th>
         <th>等级</th>
     </tr>
@@ -105,8 +107,6 @@
     </tr>
 </table>
 
-代码下载：[https://github.com/sinkcup/php-ebook-online-reader/tree/0.3.0](https://github.com/sinkcup/php-ebook-online-reader/tree/0.3.0)
-
 ###已解决的问题
 
 * PHP和HTML混写，很乱啊，怎么解决？
@@ -115,10 +115,15 @@
 
 * 保存之后，在Firefox中页面怎么乱码了？
 
-    HTTP协议中有header，其中Content-Type用于指定是网页、文本还是json等等，编码推荐使用utf-8。如何查看header？Chrome/Firefox浏览器——》F12——》网络，或者命令行curl -i即可。
+    HTML中需要声明charset，浏览器才知道用什么编码解析。
 
 * ANSI与ASCII的区别，UTF-8与Unicode的区别，GB2312、CP936、GBK、GB18030的区别，为什么技术公司的程序（Android、iOS、Linux、OS X、Windows）都使用Unicode？
+
     请自行学习。
+
+* 百万年薪的人都是怎么过日子的？
+
+    匿名用户：感谢大家的关注。很多朋友对选对行业……[http://zhi.hu/3Rv9](http://zhi.hu/3Rv9)（分享自知乎）
 
 ###待解决的问题
 
