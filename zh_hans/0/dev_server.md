@@ -67,7 +67,7 @@ Windows：下载wnmp（[getwnmp.org](http://www.getwnmp.org/)），图形界面�
 
 Ubuntu（Linux有很多版本，本书以流行的Ubuntu为例）：一个命令即可
 
-    sudo apt-get install nginx php5-fpm
+    sudo apt-get install nginx php5-fpm php5-mysqlnd
 
 Mac：
 
