@@ -99,7 +99,7 @@
     $d['article'] = $r[0];
     require_once __DIR__ . '/get_article.html';
 
-代码下载：[https://github.com/sinkcup/php-ebook-online-reader/tree/0.4.0](https://github.com/sinkcup/php-ebook-online-reader/tree/0.4.0)
+代码下载：[https://github.com/sinkcup/php-ebook-online-reader/tree/0.4.1](https://github.com/sinkcup/php-ebook-online-reader/tree/0.4.1)
 
 现在可以发表、查看首页、单篇阅读，功能都实现了。
 
