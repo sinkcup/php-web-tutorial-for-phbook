@@ -2,7 +2,7 @@
 
 ##如果文章有成千上万篇，该怎样保存？
 
-数据保存有多种方式，比如单机文件、单机数据库（SQLite）、网络数据库（MySQL、MariaDB）等等。根据项目来选择，做Web一般采用MySQL，本书也以MySQL为例。
+数据保存有多种方式，比如单机文件（JSON、txt）、单机数据库（SQLite、Access）、网络数据库（MySQL/MariaDB、Oracle、SQL Server）等等，根据项目需要进行选型。做Web一般采用开源并且免费的MySQL/MariaDB，本书也以MySQL为例。
 
 学校里应该学过SQL，如果没学过，请先自学《SQL 教程》[http://www.w3school.com.cn/sql/](http://www.w3school.com.cn/sql/)。
 
@@ -41,7 +41,7 @@
     }
     $d = array();
     $d['notice'] = array(
-        'msg' => '保存成功',
+        'msg' => $notice,
     );
     require_once __DIR__ . '/notice.html';
 
