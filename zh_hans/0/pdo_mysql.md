@@ -162,17 +162,10 @@
 
 ###待解决的问题
 
-* `index.php`、`get_article.php`等多个文件里都连了数据库，如果密码变了，每个地方都要改，怎么办？
-
-    且听下回分解。
-
 * 访问index.php是正常网页，但访问index.html看到了什么？
 
     请进行实验。且听下回分解。
 
-* 单引号能保存吗？会导致什么后果？
+* `index.php`、`get_article.php`等多个文件里都连了数据库，如果密码变了，每个地方都要改，怎么办？
 
-    请按照截图进行实验。且听下回分解。
-
-![单引号实验保存1](http://com-163-sinkcup-php-web-tutorial-create-online-reader.qiniudn.com/single_quote_mark.png)
-![单引号实验保存2](http://com-163-sinkcup-php-web-tutorial-create-online-reader.qiniudn.com/sql_injection.png)
+    且听下回分解。
