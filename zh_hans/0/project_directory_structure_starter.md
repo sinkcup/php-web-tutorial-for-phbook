@@ -137,7 +137,7 @@ db.ini的内容如下：
         <td>目录规划</td>
         <td></td>
         <td></td>
-        <td></td>
+        <td>DRY</td>
         <td></td>
         <td>0.5</td>
     </tr>
